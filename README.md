@@ -1,4 +1,4 @@
-# Tuning a filamants Extrusion Multiplier
+# Filament Tuning - Extrusion Multiplier
 I've been using the AndrewEllis93 [guide for tuning Extrusion Multiplier](https://ellis3dp.com/Print-Tuning-Guide/articles/extrusion_multiplier.html) to help get each filament's flow dialed in for top quality prints. This process works really well (along with much of his other tuning advice), but due to the trial and error nature of the process I'd found that I ended up generating between 5 and 30ish printed tiles for each filament - all but a few destined for the trash.  
 
 Here's an alternative tile shape that you can use for both tuning, reference, and collecting! Makes for a fun activity for those into creating tiled patterns, especially as your color collection grows!
