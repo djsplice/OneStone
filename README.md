@@ -3,7 +3,7 @@ I've been using the AndrewEllis93 [guide for tuning Extrusion Multiplier](https:
 
 Here's an alternative tile shape that you can use for both tuning, reference, and collecting! Makes for a fun activity for those into creating tiled patterns, especially as your color collection grows!
 
-![Collection](./img/PXL_20230329_005242781.jpg =504x275)
+![Collection](./img/PXL_20230329_005242781.jpg)
 
 ## Print Settings
 This is a 3mm tall tile - if you feel like adjusting layer heights from default, just make sure you have at least 2 layers of infill between bottom and top layers. Check out guidance in the [Print Settings](https://ellis3dp.com/Print-Tuning-Guide/articles/extrusion_multiplier.html#print-settings) section of the Ellis' Print Tuning guide for additional detail.
@@ -34,6 +34,6 @@ On March 23rd 2023, I'd stumbled across [this discovery](https://www.nytimes.com
 * Play with the shape on [Mathigon](https://mathigon.org/polypad/YBnO3csAjpKWCg)
 
 ## Additional Images
-![Tile](./img/OneStoneTileCAD.png =300x300)
-![Black](./img/PXL_20230329_034552099.jpg =275x504)
-![Orange](./img/PXL_20230329_034449245.jpg =275x504)
+![Tile CAD](./img/OneStoneTileCAD.png)
+![Black](./img/PXL_20230329_034552099.jpg)
+![Orange](./img/PXL_20230329_034449245.jpg)
