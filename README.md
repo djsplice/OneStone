@@ -1,12 +1,12 @@
 # Filament Tuning - Extrusion Multiplier
-I've been using the AndrewEllis93 [guide for tuning Extrusion Multiplier](https://ellis3dp.com/Print-Tuning-Guide/articles/extrusion_multiplier.html) to help get each filament's flow dialed in for top quality prints. This process works really well (along with much of his other tuning advice), but due to the trial and error nature of the process I'd found that I ended up generating between 5 and 30ish printed tiles for each filament - all but a few destined for the trash.  
+I've been using the AndrewEllis93 [guide for tuning Extrusion Multiplier](https://ellis3dp.com/Print-Tuning-Guide/articles/extrusion_multiplier.html) to help get each filament's flow dialed in for top-quality prints. This process works really well (along with much of his other tuning advice), but due to the trial and error nature of the process I'd found that I ended up generating between 5 and 30ish printed tiles for each filament - all but a few destined for the trash.  
 
-Here's an alternative tile shape, and recent [mathematical discovery](#the-hat---an-aperiodic-monotile), that you can use for both tuning, reference, and collecting! Makes for a fun activity for those into creating tiled patterns, especially as your color collection grows!
+Here's an alternative tile shape, and recent [mathematical discovery](#the-hat---an-aperiodic-monotile), that you can use for tuning, reference, and collecting! It makes for a fun activity for those into creating tiled patterns, especially as your color collection grows!
 
 ![Collection](./img/PXL_20230329_005242781.jpg)
 
 ## Print Settings
-This is a 3mm tall tile - if you feel like adjusting layer heights from default, just make sure you have at least 2 layers of infill between bottom and top layers. Check out guidance in the [Print Settings](https://ellis3dp.com/Print-Tuning-Guide/articles/extrusion_multiplier.html#print-settings) section of the Ellis' Print Tuning guide for additional detail.
+This is a 3mm tall tile. If you feel like adjusting layer heights from default, just make sure you have at least 2 layers of infill between bottom and top layers. Check out guidance in the [Print Settings](https://ellis3dp.com/Print-Tuning-Guide/articles/extrusion_multiplier.html#print-settings) section of the Ellis' Print Tuning guide for additional detail.
 
 ### Defaults for a .4mm nozzle
 * 30% infill
@@ -20,7 +20,7 @@ Follow the rest of the [steps](https://ellis3dp.com/Print-Tuning-Guide/articles/
 
 Before printing, don't forget to:
 * Set your default Extrusion Multiplier to 1.0 or 100% 
-* Enable sequential printing (complete individual objects)
+* Enable sequential printing (complete individual objects) if printing several tests at one time
 
 ### For SuperSlicer Users
 I've exported a [plate](./STLs/OneStone-Full-Plate.3mf) that contains all of the tiles with matching extrusion multiplier settings. I'm not sure how many other settings this exports, but hopefully it's helpful to others.
